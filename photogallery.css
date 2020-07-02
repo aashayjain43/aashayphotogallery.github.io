@@ -55,7 +55,7 @@ body
 	text-shadow: 3px 3px 3px #e6e6e6; 
 	font-weight: bold; 
 	position: absolute;
-	top: 40%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	z-index: 2;
@@ -72,7 +72,7 @@ body
 	font-style: italic;
 	padding-top: 3%;
 	position: absolute;
-	top: 56%;
+	top: 50%;
 	left: 20%;
 	right: 20%;
 	padding: 20px;
@@ -87,7 +87,7 @@ body
 	font-style: italic;
 	padding-top: 2%;
 	position: absolute;
-	top: 88%;
+	top: 75%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	z-index: 2;
